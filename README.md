@@ -1,7 +1,10 @@
-# Sanogo  Latif's Portfolio
-Entry-Level data analyst portfolio
+# Sanogo  Latif
+***
+### Entry-Level data analyst passionate about using data to make a difference
 
-# 1. [EDA Project : Visualizing Airport Traffic due to the COVID-19 pandemic](https://github.com/Lat-San/EDAs/tree/main/Covid%20impact%20on%20airports) 
+
+## 1. [EDA Project : Visualizing Airport Traffic due to the COVID-19 pandemic](https://github.com/Lat-San/EDAs/tree/main/Covid%20impact%20on%20airports) 
+***
 
 ## Project Overview
 * This project aims at using python to clean and visualise the 'covid_impact_on_airport_traffic.csv' dataset and arrive at inteligent deductions
