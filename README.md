@@ -12,6 +12,7 @@
 
 ### Glance Through
 
-![](https://github.com/Lat-San/Portfolio/blob/main/Sneak%20Peek/Github%20eda%20portf.png)    ![](https://github.com/Lat-San/Portfolio/blob/main/Sneak%20Peek/Github%20portfolio1.png)
+![](https://github.com/Lat-San/Portfolio/blob/a452e6012ce3dd89454d2be26667ab708944b6c9/Sneak%20Peek/Github%20eda%20portf.png)  
+![](https://github.com/Lat-San/Portfolio/blob/main/Sneak%20Peek/Github%20portfolio1.png)
 
 
