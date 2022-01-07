@@ -12,7 +12,4 @@
 
 ### Glance Through
 
-![](/Sneak%20Peek/Github%20eda%20portf.png)  
-![](/Sneak%20Peek/Github%20portfolio1.png)
-
-
+![](./Sneak%20Peek/Github%20eda%20portf.png)  
