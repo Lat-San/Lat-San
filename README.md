@@ -14,6 +14,5 @@
 
 ![](/Sneak%20Peek/Github%20eda%20portf.png)  
 ![](/Sneak%20Peek/Github%20portfolio1.png)
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 
