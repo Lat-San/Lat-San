@@ -1,6 +1,6 @@
 # Sanogo Latif
 ***
- **Entry-Level data analyst passionate about using data to make a difference
+ **Entry-Level data analyst passionate about utilising data to make a difference**
 
 
 ## 1. [EDA Project : Visualizing Airport Traffic due to the COVID-19 pandemic](https://github.com/Lat-San/EDAs/tree/main/Covid%20impact%20on%20airports) 
@@ -12,6 +12,6 @@
 
 ### Glance Through
 
-![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20eda%20portf.png)    ![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20portfolio1.png)
+![](https://github.com/Lat-San/Portfolio/blob/main/Sneak%20Peek/Github%20eda%20portf.png)    ![](https://github.com/Lat-San/Portfolio/blob/main/Sneak%20Peek/Github%20portfolio1.png)
 
 
