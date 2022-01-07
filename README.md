@@ -9,7 +9,6 @@ Entry-Level data analyst portfolio
 
 ## Glance Through
 
-![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20eda%20portf.png)
-![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20portfolio1.png)
+![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20eda%20portf.png)    ![](https://github.com/Lat-San/EDAs/blob/main/Covid%20impact%20on%20airports/Sneak%20peek/Github%20portfolio1.png)
 
 
