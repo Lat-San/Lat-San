@@ -1,16 +1,16 @@
-# Sanogo Latif
- **Entry-Level data analyst passionate about utilising data to make a difference**
+### Hi there 👋, Sanogo Latif
+#### Research analysis, ML, and Data visualization
+![Research analysis, ML, and Data visualization](https://media.licdn.com/dms/image/D4D16AQF3Tqg2fh-F_g/profile-displaybackgroundimage-shrink_350_1400/0/1665446525793?e=1697068800&v=beta&t=oqfUAxF2r5OXQLBtEMLlYjGYkeNhrDP77NPVvb8WKs0)
 
-***
+A lover of data science, coffee, and good music.
+Here to utilize data for environmental and entrepreneurial growth.
 
-## 1. [EDA Project : Visualizing Airport Traffic due to the COVID-19 pandemic](https://github.com/Lat-San/EDAs/tree/main/Covid%20impact%20on%20airports) 
+Skills: Python | R | SQL | Tableau
 
-### Project Overview
-* This project aims at using python to clean and visualise the 'covid_impact_on_airport_traffic.csv' dataset and arrive at inteligent deductions
-* A simple despcriptive and diagnostic analysis
-* This data was obtained from [Kaggle's public datasets](https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic), and comes from the [Geotab](Geotab.com) website
+- 🔭 I’m currently working on this page. 
 
-### Glance Through
 
-![](./Sneak%20Peek/Github%20eda%20portf.png) 
+
+
+
 
