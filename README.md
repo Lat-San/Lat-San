@@ -5,11 +5,11 @@
 A lover of data science, coffee, and good music.
 Here to utilize data for environmental and entrepreneurial growth.
 
-##Skills:
-🐍 Python 
-🧮 R 
-📅 SQL 
-📈 Tableau
+## Skills:
+* 🐍 Python 
+* 🧮 R 
+* 📅 SQL 
+* 📈 Tableau
 
 - 🔭 I’m currently working on contributing to open source projects 
 - 🌱 I’m currently learning market trend analyses and web scraping 
