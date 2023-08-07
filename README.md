@@ -12,6 +12,6 @@ Skills: Python | R | SQL | Tableau
 - 👯 I’m looking to collaborate on Research analysis projects involving ML or BI  
 - ⚡ Fun fact: I'm a dog person 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lat-San)](https://github.com/anuraghazra/github-readme-stats)
 
 
