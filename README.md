@@ -1,6 +1,6 @@
 ### Hi there 👋, Sanogo Latif
 #### Research analysis, ML, and Data visualization
-![Research analysis, ML, and Data visualization](https://i.pinimg.com/736x/4a/f3/fa/4af3fab6fe02e7a8829e55c26aaedb0f.jpg)
+![Research analysis, ML, and Data visualization](4af3fab6fe02e7a8829e55c26aaedb0f.jpg)
 
 A lover of data science, coffee, and good music.
 Here to utilize data for environmental and entrepreneurial growth.
