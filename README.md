@@ -1,6 +1,6 @@
 ### Hi there 👋, Sanogo Latif
 #### Research analysis, ML, and Data visualization
-![Research analysis, ML, and Data visualization](https://imgs.search.brave.com/katUeCyAyu82xss_HCAPQBilLGdpEa0dNh3wtAj-kuU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC8xNy84NS9i/bGFjay1hbmQtd2hp/dGUtYWJzdHJhY3Qt/d2F2eS1zdHJpcGVk/LWJhbm5lci12ZWN0/b3ItNDA0MjE3ODUu/anBn)
+![Research analysis, ML, and Data visualization]([https://imgs.search.brave.com/katUeCyAyu82xss_HCAPQBilLGdpEa0dNh3wtAj-kuU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC8xNy84NS9i/bGFjay1hbmQtd2hp/dGUtYWJzdHJhY3Qt/d2F2eS1zdHJpcGVk/LWJhbm5lci12ZWN0/b3ItNDA0MjE3ODUu/anBn](https://imgs.search.brave.com/Q0E7twyYlnzIk4wKhoQDc6UwBX7ObjBWFwwp3tw1ofE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9idW5n/YWxvd2VyLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8x/Mi9uZXJkLWdpZi5n/aWY.jpeg))
 
 A lover of data science, coffee, and good music.
 Here to utilize data for environmental and entrepreneurial growth.
