@@ -1,4 +1,4 @@
-### Hi there 👋, Sanogo Latif
+### Hi👋, I'm Sanogo Latif
 #### Research analysis, ML, and Data visualization
 ![Research analysis, ML, and Data visualization](4af3fab6fe02e7a8829e55c26aaedb0f.jpg)
 
